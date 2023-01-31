@@ -1,10 +1,19 @@
 body {
-color: black; /*para alterar a cor das letras*/
-text-align: center; /*centralizar textos*/
-background-color:rgba(91, 241, 111, 0.493); /*para trocar a cor do fundo*/
+    color: black; /*para alterar a cor das letras*/
+    text-align: center; /*centralizar textos*/
+    background-color:rgba(91, 241, 111, 0.493); /*para trocar a cor do fundo*/
+    font-size: 18px;
 }
 
 button {
-color: green; /*para trocar a cor do texto*/
+    color: green; /*para trocar a cor do texto*/
+    font-size: 18px;
+}
+
+footer {
+    padding-top: 312px;
+}
+
+h1 {
     
 }
