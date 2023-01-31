@@ -1,12 +1,13 @@
 body {
-    text-align: center; /*centralizar textos*/
-    background-color: rgb(250, 252, 249); /*para trocar a cor do fundo*/
- margin: 0; /*para retirar toda a margem ou uma porcentagem expecifica*/
- padding: 0; /*para retirar toda a margem ou uma porcentagem expecifica*/
+color: white; /*para alterar a cor das letras*/
+text-align: center; /*centralizar textos*/
+background-color:black; (250, 252, 249); /*para trocar a cor do fundo*/
+margin: 0; /*para retirar toda a margem ou uma porcentagem expecifica*/
+padding: 0; /*para retirar toda a margem ou uma porcentagem expecifica*/
  
 }
 
 button {
-    color: green; /*para trocar a cor do texto*/
+color: green; /*para trocar a cor do texto*/
     
 }
